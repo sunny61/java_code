@@ -8,7 +8,6 @@ package test;
  * 
  */
 public class YanghuiTest {
-
 	public static void main(String[] args) {
 		// 创建二维数组，定义了行，没有定义列
 		int[][] arr = new int[10][];

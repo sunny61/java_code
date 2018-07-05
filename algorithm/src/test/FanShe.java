@@ -7,6 +7,7 @@ public class FanShe {
 	public static void main(String[] args) throws Exception {
 		Class<User> clz = User.class;
 		/**
+		 * 
 		 * 无参构造
 		 */
 		Constructor<User> constructor = clz.getConstructor();
