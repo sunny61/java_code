@@ -20,6 +20,7 @@ public class FanShe {
 		User u2 = c2.newInstance("小明");
 		System.out.println(u2);
 		System.out.println("--------------------");
+
 		/**
 		 * 调用私有构造器
 		 */
