@@ -3,7 +3,6 @@ package test;
 /**
  * 要求：输出杨辉三角
  * 
- * 
  * @author Administration
  * 
  * 
